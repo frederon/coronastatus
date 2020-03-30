@@ -13,6 +13,7 @@ export type CountryCode =
   | 'en'
   | 'es'
   | 'fr'
+  | 'id'
   | 'in'
   | 'it'
   | 'mt'
@@ -152,6 +153,16 @@ const localeAwareUrls: Urls = {
     api: '/api',
     apiDocs: '/api-docs',
     statistics: '/statistiques'
+  },
+  id: {
+    submitReport: '/',
+    profile: '/kondisikesehatan',
+    privacyPolicy: '/kebijakan-privasi',
+    map: '/map',
+    contributors: '/kontributor',
+    api: '/api',
+    apiDocs: '/api-docs',
+    statistics: '/statistik'
   },
   in: {
     submitReport: '/',

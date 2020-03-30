@@ -1,0 +1,18 @@
+{
+  "BASE_URL": "coronastatus.id",
+  "COUNTRY": "Indonesia",
+  "COUNTRY_CODE": "id",
+  "DB_PATH": "./covid_db",
+  "LOCALE": "id-ID",
+  "MAP_CENTER": "-2.2670571, 117.4733898",
+  "MAP_MAX_ZOOM": 13,
+  "MAP_ZOOM": 4,
+  "PASSCODE_LENGTH": 4,
+  "REDIRECT_TO_GOVERNMENT": false,
+  "SUPPORTED_LOCALES": ["id-ID", "en-US"],
+  "THOUSAND_SEPARATOR": " ",
+  "TWITTER": "coronastatusID",
+  "ZIP_GUIDE": false,
+  "ZIP_PATTERN": "[A-Za-z0-9]{4}",
+  "ZIP_PLACEHOLDER": "1234"
+}
